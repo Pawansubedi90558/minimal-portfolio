@@ -13,7 +13,7 @@ export default [
         title: 'Auction Portal',
         imgUrl: '/assets/auction.png',
         alt : 'Auction Portal',
-        stack : ['Python','Djagnog','HTML','CSS'],
+        stack : ['Python','Djagno','HTML','CSS'],
         link : '#'
     },
     {
