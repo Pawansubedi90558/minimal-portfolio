@@ -24,7 +24,8 @@ function Contact(){
                               className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
                    />
                    <button type="button"
-                            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+                            // className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+                            className="px-4 py-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700"
                             >Contact Me</button>
 
                 </form>
