@@ -1,6 +1,11 @@
 function PortfolioItem({title,imgUrl,alt,stack,link}){
     return(
-        <div className="border-2 border-stone-900 rounded-md overflow-hidden">
+        <a 
+            href={link}
+            target="_blank"
+            rel="noreferrer noopener"
+            className="border-2 border-stone-900 rounded-md overflow-hidden"
+        >
             <img src={imgUrl}
                  alt={alt}
                  className="w-full h-36 md:h-48 object-cover cursor-pointer" />
@@ -12,7 +17,7 @@ function PortfolioItem({title,imgUrl,alt,stack,link}){
                     ))}
                  </p>
             </div>
-        </div>
+        </a>
     )
 }
 export default PortfolioItem;
