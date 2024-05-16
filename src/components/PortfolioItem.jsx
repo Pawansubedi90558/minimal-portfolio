@@ -4,7 +4,7 @@ function PortfolioItem({title,imgUrl,alt,stack,link}){
             href={link}
             target="_self"
             rel="noreferrer noopener"
-            className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
+            className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden shadow-md transform transition-transform duration-200 hover:scale-105"
         >
             <img src={imgUrl}
                  alt={alt}
