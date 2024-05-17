@@ -13,13 +13,12 @@ Welcome to my portfolio repository! This project showcases my work and skills in
 
 ## Introduction
 
-This is the official repository for my personal portfolio. My name is Pawan Subedi, and I am passionate about software development. This portfolio is designed to highlight my projects, skills, and experience in the field.
+This is the official repository for my personal portfolio. My name is Pawan Subedi, and I am passionate about software development. This portfolio is designed to highlight my projects, skills, and few life events.
 
 ## Features
 
 - **Interactive UI**: Smooth and responsive design.
 - **Project Showcase**: Detailed descriptions and links to my projects.
-- **Skills Display**: Overview of my technical skills.
 - **Contact Form**: Easy way to get in touch with me.
 
 ## Installation
@@ -55,10 +54,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 - **React**: JavaScript library for building user interfaces.
 - **HTML5**: Markup language for structuring and presenting content.
-- **CSS3**: Style sheet language used for describing the look and formatting of a document.
+- **Tailwind**: Tailwind CSS for styling.
 - **JavaScript**: Programming language that conforms to the ECMAScript specification.
-- **Node.js**: JavaScript runtime built on Chrome's V8 JavaScript engine.
-
+  
 ## Project Structure
 
 ```
