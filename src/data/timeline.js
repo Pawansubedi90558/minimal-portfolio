@@ -1,20 +1,26 @@
 export default [
     {
-        year: 'today',
-        title : 'Software developer',
-        duration : '4 years',
-        details :"lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien fermentum tincidunt. Nullam nec nunc nec nunc."
+        year: '2019-2021',
+        title : 'School Leaving Certificate',
+        duration : '2 years',
+        details :"studied at Nidi Secondary School under NEB taking up science."
     },
     {
-        year: 'today',
-        title : 'Software developer',
+        year: '2021-to date',
+        title : 'B.Sc.CSIT degree',
         duration : '4 years',
-        details :"lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien fermentum tincidunt. Nullam nec nunc nec nunc."
+        details :"studying at MMC under TU taking up B.Sc.CSIT."
     },
     {
-        year: 'today',
+        year: '2022-2023',
+        title : 'Python Trainer',
+        duration : '1 year',
+        details :"provided online training on python programming language under an institution based on Bangalore."
+    },
+    {
+        year: '2022-to date',
         title : 'Software developer',
-        duration : '4 years',
-        details :"lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien fermentum tincidunt. Nullam nec nunc nec nunc."
+        duration : '2 years+',
+        details :"providing web and mobile services as a software developer for clients whilst building my own stuffs."
     }
 ]
