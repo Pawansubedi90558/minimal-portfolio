@@ -15,7 +15,7 @@ export default [
         year: '2021-to date',
         title : 'B.Sc.CSIT degree',
         duration : '4 years',
-        details :"studying at MMC under TU taking up B.Sc.CSIT."
+        details :"studying at MMC under TU, IOST."
     },
     {
         year: '2019-2021',
